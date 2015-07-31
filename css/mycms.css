@@ -53,3 +53,7 @@ div.mainPanel{
 	text-align: left;
 	left:400;
 }
+
+div.content{
+	height: 100%;
+}
