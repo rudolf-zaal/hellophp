@@ -1,7 +1,7 @@
 <?php
-	unset($logged_user);
+	#unset($logged_user);
 	session_start();
-	$_SESSION['logged_user'] = NULL;
+	#$_SESSION['logged_user'] = NULL;
 ?>
 <!DOCTYPE html>
 <html>
