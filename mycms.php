@@ -1,6 +1,6 @@
 <?php
-	session_start();
 	unset($logged_user);
+	session_start();
 	session_register($logged_user);
 ?>
 <!DOCTYPE html>
