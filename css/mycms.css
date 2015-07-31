@@ -10,3 +10,13 @@ div.signinPanel{
 	margin: 0;
 	text-align: right;
 }
+
+div.headPanel{
+	background: orange;
+	height: 100px;
+	width: 100%;
+	color: green;
+	border-width: 0px;
+	margin: 0;
+	text-align: left;
+}
