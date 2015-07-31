@@ -20,3 +20,35 @@ div.headPanel{
 	margin: 0;
 	text-align: left;
 }
+
+div.rightPanel{
+	background: gray;
+	height: auto;
+	width: 400px;
+	color: black;
+	border-width: 0px;
+	margin: 0;
+	text-align: left;
+	right: inherit;
+}
+
+div.leftPanel{
+	background: gray;
+	height: auto;
+	width: 400px;
+	color: green;
+	border-width: 0px;
+	margin: 0;
+	text-align: left;
+	left:inherit;
+}
+div.mainPanel{
+	background: white;
+	height: auto;
+	width: auto;
+	color: green;
+	border-width: 0px;
+	margin: 0;
+	text-align: left;
+	left:400;
+}
