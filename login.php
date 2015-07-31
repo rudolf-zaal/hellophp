@@ -9,6 +9,8 @@
 			<p>Session ID:
 				<?php
 					echo session_id();
+					session_start();
+					echo "(".session_id().")";
 				?>
 			</p>
 		</div>
