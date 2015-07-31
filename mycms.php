@@ -20,7 +20,7 @@
 					if(isset($logged_user)){
 						echo 'user';
 					}else{
-						echo "<a href=\"login.html\">Войти</a>"
+						echo "<a href=\"login.html\">Войти</a>";
 					}
 				?>
 			</div>
