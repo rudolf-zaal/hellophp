@@ -1,5 +1,5 @@
 <?php
-	unset($logged_user);
+	#unset($logged_user);
 	session_start();
 	session_register($logged_user);
 ?>
