@@ -1,3 +1,6 @@
+body{
+	margin: 0px;
+}
 div.signinPanel{
 	background: yellow;
 	height: 20px;
