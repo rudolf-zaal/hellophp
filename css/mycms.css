@@ -24,6 +24,7 @@ div.headPanel{
 div.rightPanel{
 	background: gray;
 	width: 400px;
+	height: 100%;
 	color: black;
 	border-width: 0px;
 	margin: 0;
@@ -35,6 +36,7 @@ div.rightPanel{
 div.leftPanel{
 	background: gray;
 	width: 400px;
+	height: 100%;
 	color: green;
 	border-width: 0px;
 	margin: 0;
@@ -44,6 +46,7 @@ div.leftPanel{
 }
 div.mainPanel{
 	background: white;
+	height: 100%;
 	color: green;
 	border-width: 0px;
 	margin: 0;
