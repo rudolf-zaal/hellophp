@@ -23,29 +23,30 @@ div.headPanel{
 
 div.rightPanel{
 	background: gray;
-	height: auto;
+	height: 500px;
 	width: 400px;
 	color: black;
 	border-width: 0px;
 	margin: 0;
 	text-align: left;
 	right: inherit;
+	float:right;
 }
 
 div.leftPanel{
 	background: gray;
-	height: auto;
+	height: 500px;
 	width: 400px;
 	color: green;
 	border-width: 0px;
 	margin: 0;
 	text-align: left;
 	left:inherit;
+	float: left;
 }
 div.mainPanel{
 	background: white;
-	height: auto;
-	width: auto;
+	height: 500px;
 	color: green;
 	border-width: 0px;
 	margin: 0;
