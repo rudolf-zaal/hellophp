@@ -3,4 +3,5 @@ div.signinPanel{
 	height: 20px;
 	width: 100%;
 	color: blue;
+	border-width: 0px;
 }
