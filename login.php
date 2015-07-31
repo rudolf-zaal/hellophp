@@ -11,6 +11,7 @@
 					echo session_id();
 					session_start();
 					echo "(".session_id().")";
+					exit();
 				?>
 			</p>
 		</div>
