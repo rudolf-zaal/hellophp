@@ -18,7 +18,7 @@
 			<div class="signinPanel">	
 				<?php
 					if(isset($_SESSION['logged_user'])){
-						echo 'user';
+						echo "<a href=\"logout.php\">Пользователь</a>";
 					}else{
 						echo "<a href=\"login.html\">Войти</a>";
 					}
