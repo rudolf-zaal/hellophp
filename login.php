@@ -6,6 +6,14 @@
 	</head>
 	<body>
 		<div>
+			<p>Session ID:
+				<?php
+					echo session_id();
+				?>
+			</p>
+		</div>
+<!--
+		<div>
 			<p>Логин: 
 				<?php
 					echo $_POST['login']
@@ -25,5 +33,6 @@
 				<p><input type="submit"></p> 
 			</form>
 		</div>
+	-->
 	</body>
 </html>
