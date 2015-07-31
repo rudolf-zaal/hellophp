@@ -4,4 +4,6 @@ div.signinPanel{
 	width: 100%;
 	color: blue;
 	border-width: 0px;
+	margin: 0;
+	text-align: right;
 }
